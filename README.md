@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajyotsanadas&show_icons=true&locale=en&layout=compact" alt="prajyotsanadas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajyotsanadas&show_icons=true&locale=en" alt="prajyotsanadas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajyotsanadas&" alt="prajyotsanadas" /></p>
